@@ -14,3 +14,6 @@
 
 4. Run flask server:
     - bazel run projects/python_app/...
+
+5. Build the entery project:
+    - bazel build //...
