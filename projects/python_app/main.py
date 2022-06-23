@@ -13,8 +13,7 @@ def hello_world():
     message = f"Bingo!: {n1} + {n2} == {my_calc.add(n1, n2)}"
     return message
 
-print("It works!")
-
 
 if __name__ == "__main__":
+    print("It works!")
     app.run()
